@@ -1,2 +1,5 @@
 rootProject.name = 'kacper'
+include 'untitled'
+include 'Task_1_2'
+include 'Task_1_2'
 

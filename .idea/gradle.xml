@@ -9,8 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+<<<<<<< HEAD
             <option value="$PROJECT_DIR$/Task_1_2" />
             <option value="$PROJECT_DIR$/untitled" />
+=======
+>>>>>>> parent of fe78567... BUILD:1.1
           </set>
         </option>
       </GradleProjectSettings>

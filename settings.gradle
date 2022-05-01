@@ -1,5 +1,8 @@
 rootProject.name = 'kacper'
+<<<<<<< HEAD
 include 'untitled'
 include 'Task_1_2'
 include 'Task_1_2'
+=======
+>>>>>>> parent of fe78567... BUILD:1.1
 

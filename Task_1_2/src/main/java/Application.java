@@ -4,7 +4,7 @@ public class Application {
         bankomat.connect();
         bankomat.deposit();
         bankomat.withdrawal();
-        System.out.println(ATM.theEnd());
+        ATM.theEnd();
 
     }
 }

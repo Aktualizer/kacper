@@ -3,15 +3,13 @@ interface ATM {
 
     void deposit();
 
-    default String connect() {
+    default void connect() {
         System.out.println("Connection to bank established");
-        return null;
     }
 
-    static String theEnd() {
-        return "Thank You For Using Our Services!";
+    static void theEnd() {
+        System.out.println("Thank You For Using Our Services!");
     }
-
 }
 
 

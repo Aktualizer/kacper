@@ -5,11 +5,11 @@ public class LoopFor {
 
         System.out.println("Numbers are");
 
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < numbers.length; i++) {
 
-            System.out.println(String.valueOf(+ numbers[(int) i]));
+            System.out.println(numbers[i]);
 
-            total += numbers[(int) i];
+            total += numbers[i];
         }
 
         double average = total / numbers.length;
